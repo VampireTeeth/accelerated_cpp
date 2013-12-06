@@ -1,0 +1,10 @@
+/Debug
+/**/Debug
+/debug
+/**/debug
+/**/*.o
+/*.o
+/**/*.d
+/*.d
+/*.vl*
+/**/*.vl*
